@@ -43,7 +43,7 @@ File.open(filename) do |file|
     content = entry.content.content
 
     File.open(File.join(output_folder, md_filename), 'w') do |md_file|
-      md_file << frontmatter.to_json
+      md_file << JSON.pretty_generate(frontmatter)
       md_file << "\n" * 2
       md_file << content
     end
