@@ -3,7 +3,12 @@
   "slug": "google-talk-for-your-domains-pidgin",
   "title": "Google Talk for your domains - Pidgin",
   "author": "YT Kuah",
-  "date": "2008-08-27T16:19:00.0+12:00"
+  "date": "2008-08-27T16:19:00.0+12:00",
+  "tags": [
+    "technology",
+    "communications",
+    "short"
+  ]
 }
 
 Just found out that Pidgin now has Google Talk. That means my GAFYD GTalk now works. Awesome!

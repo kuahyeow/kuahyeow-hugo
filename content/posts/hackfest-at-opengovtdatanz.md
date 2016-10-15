@@ -3,7 +3,13 @@
   "slug": "hackfest-at-opengovtdatanz",
   "title": "Hackfest at the OpenGovtDataNZ",
   "author": "YT Kuah",
-  "date": "2009-08-31T21:47:00.0+12:00"
+  "date": "2009-08-31T21:47:00.0+12:00",
+  "tags": [
+    "technology",
+    "open source",
+    "hackfest",
+    "opengovt"
+  ]
 }
 
 Hacking for the greater good : the good being helping to free up <a href="http://cat.open.org.nz/">important government information</a>. A <a href="http://groups.google.com/group/nzopengovtbarcamp">Barcamp and Hackfest</a> was held just this weekend, in the last days of August. I participated in the Hackfest, which was held at the amazing Southern Cross Bar. Great food and nice private room made for a good environment for coding.<br /><br />The Hackfest was a bit more structured than previous events I have been to, but I'll say this had a positive effect of helping people choose what and who they wanted to work with. There were some suggested ideas from the Barcamp, but people were free to work on their ideas too. Here are some projects that was worked on at this event :<br /><ul><li><a href="http://github.com/opennewzealand/scavenger/tree/master">http://github.com/opennewzealand/scavenger/tree/master</a></li><li><a href="http://wiki.open.org.nz/What_Do_They_Know_NZ">http://wiki.open.org.nz/What_Do_They_Know_NZ</a></li><li><a href="http://github.com/wombleton/whatdotheyknow/tree/master">http://github.com/wombleton/whatdotheyknow/tree/master</a><br /></li></ul>And many more, which is listed at:<br /><br /><a href="http://wiki.open.org.nz/Hackfest">http://wiki.open.org.nz/Hackfest</a><br /><br />It was great collaborating and working with great people and programmers. Hope to do this again very soon!

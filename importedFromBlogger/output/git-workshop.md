@@ -3,7 +3,13 @@
   "slug": "git-workshop",
   "title": "Git Workshop",
   "author": "YT Kuah",
-  "date": "2009-08-06T11:21:00.0+12:00"
+  "date": "2009-08-06T11:21:00.0+12:00",
+  "tags": [
+    "technology",
+    "summer of code",
+    "git",
+    "presentation"
+  ]
 }
 
 I did a Git workshop for <a href="http://www.summerofcode.co.nz/">Summer of Code NZ</a> students. Here it is:<br /><br /><a name='more'></a><br /><div id="__ss_1793947" style="text-align: left; width: 425px;"><a href="http://www.slideshare.net/kuahyeow/code-management" style="display: block; font-family: Helvetica,Arial,Sans-serif; font-size-adjust: none; font-size: 14px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal; margin: 12px 0pt 3px; text-decoration: underline;" title="Code Management">Code Management</a><object height="355" style="margin: 0px;" width="425"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=code-management-git-090730230249-phpapp02&amp;rel=0&amp;stripped_title=code-management"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=code-management-git-090730230249-phpapp02&amp;rel=0&amp;stripped_title=code-management" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><br /><div style="font-family: tahoma,arial; font-size: 11px; height: 26px; padding-top: 2px;">View more <a href="http://www.slideshare.net/" style="text-decoration: underline;">documents</a> from <a href="http://www.slideshare.net/kuahyeow" style="text-decoration: underline;">kuahyeow</a>.</div></div><br /><br />Full details at the Summer of Code blog:<br /><br /><a href="http://blog.summerofcode.co.nz/2009/07/31/code-management-git-workshop/">http://blog.summerofcode.co.nz/2009/07/31/code-management-git-workshop/</a>

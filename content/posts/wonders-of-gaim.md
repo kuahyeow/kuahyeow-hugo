@@ -3,7 +3,11 @@
   "slug": "wonders-of-gaim",
   "title": "The wonders of GAIM",
   "author": "YT Kuah",
-  "date": "2007-09-16T17:37:00+12:00"
+  "date": "2007-09-16T17:37:00+12:00",
+  "tags": [
+    "technology",
+    "short"
+  ]
 }
 
 Have three (or more) different IMs but don't want to login separately to all three? Friends swear by Yahoo Messenger, but refuse to use Google Talk. No fear, use GAIM (Pidgin)! It can combine all you IM accounts into one! :)

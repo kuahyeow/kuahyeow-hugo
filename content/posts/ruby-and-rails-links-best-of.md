@@ -3,7 +3,14 @@
   "slug": "ruby-and-rails-links-best-of",
   "title": "Ruby and Rails links, Best of",
   "author": "YT Kuah",
-  "date": "2009-09-15T22:13:00+12:00"
+  "date": "2009-09-15T22:13:00+12:00",
+  "tags": [
+    "technology",
+    "rails",
+    "ruby",
+    "collection",
+    "links"
+  ]
 }
 
 Monthly collection of Ruby links that I'll regret forgetting about:<br /><ul><li><a href="http://yehudakatz.com/2009/08/24/my-10-favorite-things-about-the-ruby-language/">My 10 Favorite Things About the Ruby Language � Katz Got Your Tongue?</a></li><li><a href="http://dablog.rubypal.com/2009/1/14/10-things-to-be-aware-of-in-moving-to-ruby-1-9">http://dablog.rubypal.com/2009/1/14/10-things-to-be-aware-of-in-moving-to-ruby-1-9</a></li><li><a href="http://dablog.rubypal.com/2009/1/16/son-of-10-things-to-be-aware-of-in-ruby-1-9">http://dablog.rubypal.com/2009/1/16/son-of-10-things-to-be-aware-of-in-ruby-1-9</a></li><li><a href="http://www.manning.com/black2/">http://www.manning.com/black2/</a></li><li><a href="http://weblog.rubyonrails.org/2009/9/4/ruby-on-rails-2-3-4">Upgrade to Rails 2.3.4, 2.2.3</a> (Security Release) </li><li><a href="http://weblog.rubyonrails.org/2009/9/1/gem-packaging-best-practices">Riding Rails: Gem Packaging: Best Practices</a></li></ul>

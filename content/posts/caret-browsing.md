@@ -3,7 +3,10 @@
   "slug": "caret-browsing",
   "title": "Caret Browsing",
   "author": "YT Kuah",
-  "date": "2006-05-21T01:11:00+12:00"
+  "date": "2006-05-21T01:11:00+12:00",
+  "tags": [
+    "technology"
+  ]
 }
 
 Wow, I accidentally hit <a href="http://mozmanual.mozdev.org/web/browser-15.html">F7 </a>and Firefox turned into an annoying monster that has its own mind. Yes, press F7 and your up or down keyboard buttons behave differently when you are scrolling! It scrolls line by line, with a cursor (much like Word) instead of scrolling smoothly like a normal web page....<br /><br />Tip, it's called 'Caret Browsing' ....So <a href="http://www.wherethebloodyhellareyou.com">blo***</a> obscure

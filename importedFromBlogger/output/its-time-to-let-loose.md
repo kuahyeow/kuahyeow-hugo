@@ -3,7 +3,10 @@
   "slug": "its-time-to-let-loose",
   "title": "It's time to let loose",
   "author": "YT Kuah",
-  "date": "2005-12-26T22:46:00+13:00"
+  "date": "2005-12-26T22:46:00+13:00",
+  "tags": [
+
+  ]
 }
 
 My problem was I never let loose. Wonder what will happen if I wasn't so considered?<br /><br />Hmmm...Well,  for one thing, I'll probably blog more often. I'll be back with more.

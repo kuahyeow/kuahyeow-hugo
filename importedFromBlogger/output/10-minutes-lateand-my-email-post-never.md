@@ -3,7 +3,10 @@
   "slug": "10-minutes-lateand-my-email-post-never",
   "title": "10 minutes late...and my email post never arrives!",
   "author": "YT Kuah",
-  "date": "2005-04-16T00:07:00+12:00"
+  "date": "2005-04-16T00:07:00+12:00",
+  "tags": [
+
+  ]
 }
 
 Coincidence? All the clocks at uni today were <em>all</em> 10 minutes late. From the clock in the main lecture hall to the lab clock to the other lecture hall clock. Must be a prank. Then I went for squash and guess what? 10 minutes late as well! Now I'm thinking it might be the earthquake two days ago(can't remember). Was sitting at home eating dinner when the ground shook a little. But big enough to stop us in the act of eating... Boy, it was fun experiencing an earthquake that was <strong>undisputable</strong>. (more than 4 seconds). :P<br /><br />Oh! Where's my missing blog post. Tried to post one using email(yeah, cool feature) but no show...Anyway just a test post :P

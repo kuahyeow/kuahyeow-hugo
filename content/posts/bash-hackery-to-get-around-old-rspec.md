@@ -3,7 +3,14 @@
   "slug": "bash-hackery-to-get-around-old-rspec",
   "title": "Bash hackery to get around old rspec",
   "author": "YT Kuah",
-  "date": "2010-06-18T15:07:00+12:00"
+  "date": "2010-06-18T15:07:00+12:00",
+  "tags": [
+    "technology",
+    "rspec",
+    "rails",
+    "scripting",
+    "bash"
+  ]
 }
 
 I have a problem where a project is using an older version of RSpec (currently the lastest version is RSpec 1.3.0). Therefore running<br /><blockquote>spec spec/model/some_model_spec.rb</blockquote>gives me an error<br /><blockquote>/spec/models/../spec_helper.rb:23: undefined method `use_transactional_fixtures='</blockquote>The solution would be to use the older, vendored spec. Now, the spec binary that is installed as part of the gem installation should do this (some gems do checked for vendor'ed binaries) and my rspec is installed under vendor/plugins, not vendor/gems. Therefore, &nbsp;I use some bash trickery to dynamically redefine the "<span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace;">spec</span>" command. Put the code below in .bashrc :<br /><pre><code><br />vendored_or_path_spec() {<br />  if [ -x vendor/plugins/rspec/bin/spec ];<br />  then <br />    echo 'vendor/plugins/rspec/bin/spec';<br />  else<br />    echo '*spec';<br />  fi<br />}<br />alias spec='$(vendored_or_path_spec) $@'</code></pre><br /><br />Some explanations. The hardest thing to figure out was how to dynamically alias something. After such scrumbling and asking on vark.com, I managed to find <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Command_substitution">command substitutions</a>, which is the $(command) part. Combining that with $@ for all arguments meant that I can run any command in the alias. <br /><br />Because I'm aliasing spec, I use *spec to refer to the original un-aliased spec.<br /><br />That's it!

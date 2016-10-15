@@ -3,7 +3,10 @@
   "slug": "i-blog",
   "title": "I, blog",
   "author": "YT Kuah",
-  "date": "2005-06-15T23:43:00+12:00"
+  "date": "2005-06-15T23:43:00+12:00",
+  "tags": [
+    "interesting"
+  ]
 }
 
 I, blog shall not call out to my master,<br />Not especially when he's in a fluster!<br />For when one is in between,<br />three exams and an interview,<br />then one should get out of her, nothing to view!

@@ -3,7 +3,10 @@
   "slug": "random-gnome-settings-daemon-error",
   "title": "Random gnome-settings-daemon error",
   "author": "YT Kuah",
-  "date": "2008-02-05T13:47:00+13:00"
+  "date": "2008-02-05T13:47:00+13:00",
+  "tags": [
+    "ubuntu gnome x11 dbus"
+  ]
 }
 
 One random time (on the 5th of February), X crashed on me. Nothing special. But then the error message that came up after I logged back in was. The errror was something like:<br /><pre><blockquote>** (gnome-settings-daemon:5559): WARNING **: Unable to connect to dbus: Failed<br />to connect to socket /tmp/dbus-zlCjJ68lrb: Connection refused<br /><br />(gnome-settings-daemon:5559): GnomeKbdIndicator-WARNING **: Unable to<br />connect to dbus: Failed to connect to socket /tmp/dbus-zlCjJ68lrb:<br />Connection refused<br /><br />(gnome-settings-daemon:5559): GnomeKbdIndicator-WARNING **: Not connected to<br />dbus, will not register the object<br />xrdb:  "*Label.background" on line 220 overrides entry on line 150<br />xrdb:  "*Text.background" on line 226 overrides entry on line 191<br />xrdb:  "*Label.foreground" on line 232 overrides entry on line 151<br />xrdb:  "*Text.foreground" on line 238 overrides entry on line 19</blockquote></pre> With the nice side-effect of GNOME looking like gray crap, instead my nice looking Ubuntu theme. Looking around found me this <a href="http://www.mail-archive.com/desktop-bugs@lists.ubuntu.com/msg139625.html">bug report</a> (http://www.mail-archive.com/desktop-bugs@lists.ubuntu.com/msg139625.html), which had the solution:<br /><blockquote>sudo apt-get install dbus-x11 </blockquote>For some reason the <a href="https://bugs.launchpad.net/ubuntu/+source/dbus/+bug/120089">dependencies</a> may have been messed up? (https://bugs.launchpad.net/ubuntu/+source/dbus/+bug/120089). or may not....<br /><br /><br /><br /><pre><br /></pre>

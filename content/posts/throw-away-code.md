@@ -3,7 +3,12 @@
   "slug": "throw-away-code",
   "title": "Throw away code",
   "author": "YT Kuah",
-  "date": "2009-08-22T17:39:00.0+12:00"
+  "date": "2009-08-22T17:39:00.0+12:00",
+  "tags": [
+    "programming",
+    "technique",
+    "project"
+  ]
 }
 
 Let's start simple. Here is a situation I have encountered more than once. We have this big long class or method, and embedded in it are several blocks of code, <span style="font-weight: bold;">all commented out</span>.<br /><pre>def some_method(a)<br />do_something(a)<br />calc_another<br /><br /># wow<br /># do_do<br /># calc_calc<br /># zcalc(z)<br />end<br /></pre>What should I do? Given the code is <a href="http://git-scm.com/">version controlled</a>, I would happily throw it away.<br /><br />The code is commented out and will have no effect whatsoever on any program or user. Another programmer may be affected by it, though. So, make a note in the commit message :<br /><blockquote>"removed commented-out code in such-and-such method. haven't been used in a while"<br /></blockquote>Caveats apply for very large blocks of commented-out code, or it has warnings not to remove. But these can be easily solved with some programmer-to-programmer communication.<br /><br />There are other things that can be <a href="http://www.joelonsoftware.com/articles/fog0000000069.html">theoretically thrown away</a>, such as:<br /><ol><li>Once off experiments / prototype</li><li>Quick and dirty functions</li><li>Generally ugly code in the project<br /></li></ol>However, each of this has it's own set of code, teamwork and business-related problems. Yes, there is the urge to reduce mental strain - <a href="http://www.codinghorror.com/blog/archives/000684.html">working what does piece of code do</a> - which leads to "let's rewrite" moments. I would love to know what a programmer or a team can do in each of this instances. I have some ideas, but these will be topics for later discussions.<br /><br />* I have always wanted to write down some of my experiences as I embark on a programming life. This is my starting contribution.

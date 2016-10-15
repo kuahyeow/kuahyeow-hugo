@@ -3,7 +3,10 @@
   "slug": "google-wifi-just-wish",
   "title": "Google WiFi -- Just a wish",
   "author": "YT Kuah",
-  "date": "2007-08-28T16:53:00+12:00"
+  "date": "2007-08-28T16:53:00+12:00",
+  "tags": [
+
+  ]
 }
 
 <a href="http://googleblog.blogspot.com/2007/08/first-year-of-google-wifi.html">Official Google Blog: First year of Google WiFi</a><br /><br />Ah, to have free wifi, Wellington. It will be like the <a href="http://www.projectwish.com/">Wish project</a>, I'm afraid. :P

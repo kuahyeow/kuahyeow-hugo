@@ -3,7 +3,10 @@
   "slug": "three-down-one-more-to-go",
   "title": "Three down, one more to go...",
   "author": "YT Kuah",
-  "date": "2005-05-04T19:05:00+12:00"
+  "date": "2005-05-04T19:05:00+12:00",
+  "tags": [
+
+  ]
 }
 
 Some update about the sharks. The ever mighty Surfer(yours truly) has managed (barely) to outswim three of the four DeadLine sharks. One more to go...<br /><br />Until then, when I can start to blog properly!<br /><br />Bday update: My sweetie did a party for me! Complete with cake! and one more nice dinner! Yum, yum... Thanks, sweetie! :)<br /><br />A bit on the side: Here's something I hope to complete. The Malaysian club here is refurbishing its website and i'm coordinating it. Have a look now at <a href="http://www.wmso.tk">http://www.wmso.tk</a> and check back after June :)

@@ -3,7 +3,10 @@
   "slug": "evolving-with-our-stomachs-future-of",
   "title": "Evolving with our stomachs - Future of Evolution - MSNBC.com",
   "author": "YT Kuah",
-  "date": "2005-06-06T22:00:00+12:00"
+  "date": "2005-06-06T22:00:00+12:00",
+  "tags": [
+    "interesting"
+  ]
 }
 
 <a href="http://www.msnbc.msn.com/id/7270028/">Evolving with our stomachs - Future of Evolution - MSNBC.com</a>

@@ -3,7 +3,12 @@
   "slug": "short-update-graduation",
   "title": "Short update [Graduation]",
   "author": "YT Kuah",
-  "date": "2007-08-14T21:59:00+12:00"
+  "date": "2007-08-14T21:59:00+12:00",
+  "tags": [
+    "photos",
+    "graduation",
+    "short"
+  ]
 }
 
 Well, Graduation came and went. Should post some graduation pics. See here!<br /><br /><a href="http://kuahyeow.blogspot.com/2007/08/graduation.html">http://kuahyeow.blogspot.com/2007/08/graduation.html</a>

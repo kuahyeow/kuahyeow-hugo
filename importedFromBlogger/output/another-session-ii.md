@@ -3,7 +3,10 @@
   "slug": "another-session-ii",
   "title": "Another session (II)",
   "author": "YT Kuah",
-  "date": "2006-01-07T04:54:00+13:00"
+  "date": "2006-01-07T04:54:00+13:00",
+  "tags": [
+
+  ]
 }
 
 Okay, Drupal works wonders...There u have it, the search is done :)<br /><br />Sorry, forgot to put <span style="font-weight: bold; font-style: italic;">rambling </span>warning on... ;)<br /><br />Anyway, the cable car ride today was excellent. It's been a long time since I've done that. When I graduate, I'll be sure to take a picture with Mr Sulky Graduate of 1990........And take my family along in the cable car ride...<br /><br />I should really do this blogging thing properly...Now, couple of post to do, but always slips my mind....<br /><br />Oh, the McDonald's at Lambton Quay is one to go to. Nice service, big and spacious tables. Best fast-food restaurant I've been to so far :)<br /><br />I'm off,<br />zzzzzzzzz

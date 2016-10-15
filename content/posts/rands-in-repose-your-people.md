@@ -3,7 +3,14 @@
   "slug": "rands-in-repose-your-people",
   "title": "Rands In Repose: Your People",
   "author": "YT Kuah",
-  "date": "2009-09-29T22:41:00+13:00"
+  "date": "2009-09-29T22:41:00+13:00",
+  "tags": [
+    "friends",
+    "people",
+    "rands",
+    "life",
+    "lessons learnt"
+  ]
 }
 
 Came upon this really good post about people you should cherish: <br /><br /><a href="http://www.randsinrepose.com/archives/2009/09/07/your_people.html">Rands In Repose: Your People</a><br /><br />Really good insight - "As we edit our days into these stories, there is always a risk of fiction. This is why you need to identify and nurture Your People."<br /><br />What are Your People? <br /><blockquote>"You tell these stories to Your People without reservation. Your People love your stories — fiction and all. They love how you tell them, they laugh about the lies you tell yourself, and then they stop and they tell you the <b>truth</b>." <br /></blockquote>You need someone to keep you honest. Read the post for a clear definition of <a href="http://www.randsinrepose.com/archives/2009/09/07/your_people.html">Your People</a>.

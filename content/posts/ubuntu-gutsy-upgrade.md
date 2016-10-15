@@ -3,7 +3,14 @@
   "slug": "ubuntu-gutsy-upgrade",
   "title": "Ubuntu Gutsy Upgrade",
   "author": "YT Kuah",
-  "date": "2007-10-27T22:58:00+13:00"
+  "date": "2007-10-27T22:58:00+13:00",
+  "tags": [
+    "trackerd",
+    "technology",
+    "ubuntu",
+    "compiz fusion",
+    "gutsy"
+  ]
 }
 
 Ubuntu 7.10 - Gutsy Gibbon - has arrived. Since I can't refuse the temptation of an upgrade, I took the plunge and downloaded the upgrade. Some one mentioned the torrent download, which will be faster than the server download. Spot on.<br /><br />Upgrading was a breeze. There was a slight problem with X not starting not, a little sleuthing revealed that my installation was not complete (namely, my kernel was still stuck on "generic". Finishing the upgrade solved my problems.<br /><br />Some nice new things. No more beryl (Long live beryl!). Compiz Fusion is now in the official repositories, and for people like me, who are used the control beryl-manager gave, there's <strong>Compiz Config Settings Manager. <span style="font-weight: normal;">This post nicely tells <a href="http://ubuntu-tutorials.com/2007/10/04/compiz-fusion-on-ubuntu-710-gutsy-gibbin/">how to install Compiz Config</a>, and recommends some good settings for it.<br /><br />I totally grok the new <a href="http://www.flickr.com/photos/mattezell/1642114176/">expo</a> <a href="http://www.youtube.com/watch?v=yNgL9laI3bs">feature</a>. Rotate cube now comes with more than 4 cubes, thanks to the new integration with GNOME default with XGL. Beautiful! This video has all the <a href="http://www.youtube.com/watch?v=hxTyMjukUgg">cool configs to use</a>.<br /><br />Now, problems. I have a beef with <a href="https://bugs.launchpad.net/ubuntu/+source/tracker/+bug/131983">trackerd</a>. It just hogs all memory for some reason. Ubuntu could do better to explain this. Looking <a href="https://bugs.launchpad.net/ubuntu/+source/tracker/+bug/155700">around</a>, I found that killing the current trackerd, and then restarting trackerd to reindex everything with 'trackerd -R' worked. The memory and swap usage dropped, and what has been running for four days is now completed in two hours! To check, use 'tracker-status'. After trackerd has finished indexing, it should state:<br /><blockquote style="font-weight: bold;">Tracker daemon's status is Idle.</blockquote>Other good stuff includes the ability to finally write into NTFS, but I haven't tried that out yet. More on others later...<br /><br /><br /><br /><br /></span></strong>

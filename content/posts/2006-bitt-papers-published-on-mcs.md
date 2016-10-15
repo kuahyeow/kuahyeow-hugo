@@ -3,7 +3,15 @@
   "slug": "2006-bitt-papers-published-on-mcs",
   "title": "2006 BITT papers published on MCS",
   "author": "YT Kuah",
-  "date": "2007-08-22T23:44:00+12:00"
+  "date": "2007-08-22T23:44:00+12:00",
+  "tags": [
+    "bitt",
+    "honours",
+    "vuw",
+    "reports",
+    "mcs",
+    "graduation"
+  ]
 }
 
 The School of Mathematical, Statistics and Computer Sciences (SMSCS) of Victoria has released last years Honours papers (well at least for the <a href="http://www.vuw.ac.nz/home/subjects_degrees/undergraduate_degrees/bit.html">BIT</a> ones). One of the papers is the report of <a href="http://www.mcs.vuw.ac.nz/comp/graduates/archives/bitt/2006/kuahyeow.pdf">yours truly</a>.<br /><br />Have fun <a href="http://www.mcs.vuw.ac.nz/comp/graduates/archives/bitt/2006/">reading them all</a>! [<a href="http://www.mcs.vuw.ac.nz/comp/graduates/archives/bitt/2006/">http://www.mcs.vuw.ac.nz/comp/graduates/archives/bitt/2006</a>]<br /><br />ps. I am pleasantly surprised at how relevant <a href="http://www.mcs.vuw.ac.nz/comp/graduates/archives/bitt/2006/kuahyeow.pdf">my paper</a> was to this <a href="http://agilewebdevelopment.com/">rails plugin site.</a>

@@ -3,7 +3,12 @@
   "slug": "watch-what-you-are-testing",
   "title": "Watch what you are testing",
   "author": "YT Kuah",
-  "date": "2007-09-10T13:52:00+12:00"
+  "date": "2007-09-10T13:52:00+12:00",
+  "tags": [
+    "technology",
+    "work",
+    "ruby"
+  ]
 }
 
 <a href="http://www.google.com/search?hl=en&safe=off&amp;client=firefox-a&rls=com.ubuntu%3Aen-US%3Aofficial&amp;hs=kLY&q=%22uninitialized+constant+ApplicationController+%28NameError%29%22&amp;btnG=Search">uninitialized constant ApplicationController (NameError)</a> may mean a lot of things, as a <a href="http://www.google.com/search?hl=en&safe=off&amp;client=firefox-a&rls=com.ubuntu%3Aen-US%3Aofficial&amp;hs=kLY&q=%22uninitialized+constant+ApplicationController+%28NameError%29%22&amp;btnG=Search">Google search</a> for the term might attest.<br /><br />However, for me, it's usually because I am trying the run the controller as a test! (I blame the 'run' button in Eclipse, too easy).<br /><br />Moral of the story? Might pay to check what you are running, and try Alt-X-U to start the test run manually.

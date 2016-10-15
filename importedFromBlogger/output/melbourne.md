@@ -3,7 +3,11 @@
   "slug": "melbourne",
   "title": "Melbourne",
   "author": "YT Kuah",
-  "date": "2006-07-03T14:13:00+12:00"
+  "date": "2006-07-03T14:13:00+12:00",
+  "tags": [
+    "photos",
+    "melbourne"
+  ]
 }
 
 It has been a nice trip over to Melbourne. Yi Wen and I spent six days there, mainly sightseeing and enjoying the free rides on Melbourne's tourist shuttles and trams ;).<br /><br />A bunch of pictures are now available on <a href="http://kuahyeow.blogspot.com/2006/06/approaching-melbourne.html">my photoblog.</a><br /><br />Enjoy!

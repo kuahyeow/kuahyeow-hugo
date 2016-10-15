@@ -3,7 +3,10 @@
   "slug": "facebook-greedy-defaults-and-jarring",
   "title": "Facebook - greedy defaults and jarring configs",
   "author": "YT Kuah",
-  "date": "2010-08-23T12:29:00.0+12:00"
+  "date": "2010-08-23T12:29:00.0+12:00",
+  "tags": [
+
+  ]
 }
 
 Commited Facebook Suicide for the second time. Where do I start? ...<br />

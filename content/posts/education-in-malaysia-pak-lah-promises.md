@@ -3,7 +3,10 @@
   "slug": "education-in-malaysia-pak-lah-promises",
   "title": "EDUCATION IN MALAYSIA: Pak Lah Promises Scholarship for Top Students",
   "author": "YT Kuah",
-  "date": "2005-06-11T16:50:00+12:00"
+  "date": "2005-06-11T16:50:00+12:00",
+  "tags": [
+
+  ]
 }
 
 <a href="http://educationmalaysia.blogspot.com/2005/06/pak-lah-promises-scholarship-for-top.html">EDUCATION IN MALAYSIA: Pak Lah Promises Scholarship for Top Students</a><br /><br />Just a comment in Tony P's blog (on a small aspect of this story):<br /><br />Beneath all this is the very question of the definition of a "top student". It would seem that having all A1s would assure scholarships will fall your way. What I would like to point out is that scholarships should be allocated based on whether the applicant is able to succeed at university and further in their professional career(as well). At the SPM stage, how would you be able to distinguish between a person with perfect grades and one with slightly less quality grades? How can we be sure if we can pick the one who can better in their proffesion of choice?<br /><br />We should STOP this obsession with As! Sure it is an important deteminer but it is not the catch-all. And yeah, there are way more other careers in life other then doctors and accountants. Choose your passion (including medical and accountancy)!

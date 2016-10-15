@@ -3,7 +3,13 @@
   "slug": "view-as-single-page",
   "title": "'View as single page'",
   "author": "YT Kuah",
-  "date": "2008-09-09T22:42:00.0+12:00"
+  "date": "2008-09-09T22:42:00.0+12:00",
+  "tags": [
+    "rant",
+    "rambling",
+    "unpage",
+    "short"
+  ]
 }
 
 Just wanted to rant about how news websites have the annoying feature of splitting up articles into 'pages' - of just two or so paragraphs. There'll be <span style="font-weight: bold; font-style: italic;">three </span>or <span style="font-weight: bold; font-style: italic;">four </span>of these 'pages'. But once you click on the 'view as single page',  you realise how ridiculously short the article is, to even split to any page. I wish there's a magic <span style="font-weight: bold;">unpage</span>! bookmarklet out there.

@@ -3,7 +3,10 @@
   "slug": "rejected-top-spm-scorers-finally-get",
   "title": "Rejected top SPM scorers finally get PSD scholarships",
   "author": "YT Kuah",
-  "date": "2005-06-11T17:37:00+12:00"
+  "date": "2005-06-11T17:37:00+12:00",
+  "tags": [
+    "interesting"
+  ]
 }
 
 <a href="http://www.thestar.com.my/news/story.asp?file=/2005/6/11/nation/11191424&amp;sec=nation">Rejected top SPM scorers finally get PSD scholarships</a>

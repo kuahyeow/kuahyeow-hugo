@@ -3,7 +3,11 @@
   "slug": "riding-rails-community-highlights",
   "title": "Riding Rails: Community Highlights: IronRuby",
   "author": "YT Kuah",
-  "date": "2009-08-12T12:23:00.0+12:00"
+  "date": "2009-08-12T12:23:00.0+12:00",
+  "tags": [
+    "technology",
+    "ruby"
+  ]
 }
 
 Consider this question from <a href="http://weblog.rubyonrails.org/2009/8/11/community-highlights-ironruby">Riding Rails: Community Highlights: IronRuby</a> (emphasis mine).<br /><div class="itv-question"><span class="matt-aimonetti"></span></div><blockquote><div class="itv-question"><span class="matt-aimonetti">Matt:</span>  Are there any limitations that our readers should be aware of before starting to develop on IronRuby?</div> <div class="itv-answer"><span class="Jimmy">Jimmy:</span> The main limitation is that IronRuby does not support any of the C-based Ruby libraries, and only after 1.0 will we <span style="font-style: italic; font-weight: bold;">consider building an interop layer</span> between the Ruby C API and IronRuby. In the meantime, people have been porting their favorite C-based Ruby libraries over to C# so it can be used from IronRuby, like <a href="http://github.com/nrk/ironruby-hpricot/tree/master">Hpricot</a>. While this seems like a large limitation, most of the C-based libraries Ruby code depends on have an equivalent API in the .NET framework, which IronRuby has direct integration with, making either using directly or porting really easy. For example, the Rails app I showed at RailsConf <span style="font-weight: bold; font-style: italic;">did image resizing directly with the System.Windows.Drawing APIs rather than ImageMagick</span>. If your code does not depend on anything outside of the Ruby standard library that is C-based, you should have no problems. Take a look at the documentation for running Rails on IronRuby to make sure things go smoothly: <a href="http://ironruby.net/Documentation/Rails">http://ironruby.net/Documentation/Rails</a>. </div></blockquote><div class="itv-answer"></div>Sure reminds me of <a href="http://en.wikipedia.org/wiki/Embrace,_extend_and_extinguish">Embrace, extend, extinguish</a>. I'm sure the interop layer is being considered, but the absence of it will tie IronRuby to .NET and away from Ruby. I hope the interop layer will be done soon.

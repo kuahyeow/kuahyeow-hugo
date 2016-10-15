@@ -3,7 +3,10 @@
   "slug": "christmas",
   "title": "Christmas",
   "author": "YT Kuah",
-  "date": "2005-12-29T02:58:00+13:00"
+  "date": "2005-12-29T02:58:00+13:00",
+  "tags": [
+
+  ]
 }
 
 Merry Christmas and Happy New Year to all!!<br /><br />I guess it's time to start  planning for a new 2006 year. (Aside: Anyone besides me still wondering how the hell humanity managed to get back the year 2000? I mean, we are in 2006! 6 years after and I still can't get my head around the weirdness of a '2' in front of years....There must be a word for this)<br /><br />But first, some updates on what happended this Christmas. First off, the Grinch did NOT steal Christmas....Sorry couldn't resist it. Instead, the everlasting turkey made its <a href="http://kuahyeow.blogspot.com/2005/12/cooking-with-turkey-and-david.html">debut</a> in flat 39, of Everton Hall. (Merry thanks to <a href="http://kuahyeow.blogspot.com/2005/12/our-fellow-co-conspirator-in-this.html">David</a>, our assistant-in-chef).<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger/7053/988/1600/IMG_4885.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="http://photos1.blogger.com/blogger/7053/988/320/IMG_4885.jpg" alt="" border="0" /></a>The aforementioned turkey was to be the main theme (course) of the Annual Christmas Party!! Having a well-deserved holiday, I thought of <span style="font-style: italic;">hosting </span>a party for once. A couple of texts found Ashweena and Zack(who came from Christchurch this Xmas), David, Eric and Ling. :) Pity our BA in residence, Summer, was on diet(!) and did not want to join in the festivities. Oh, well.<br /><br />It turned out that Eric and Ling already beat me to the rush, so we joined in their party instead, with the turkey in hand (they lacked one, anyhow :) )<br /><br />Oh, that's me happily carving the turkey up. That's one of the very few photos that we took that night. Silly me, to forget taking pictures....must remember next time...

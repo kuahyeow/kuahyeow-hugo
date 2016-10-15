@@ -3,7 +3,10 @@
   "slug": "men-chat-and-women-text-research",
   "title": "Men chat and women text - research",
   "author": "YT Kuah",
-  "date": "2005-05-12T01:31:00+12:00"
+  "date": "2005-05-12T01:31:00+12:00",
+  "tags": [
+
+  ]
 }
 
 <a href="http://today.reuters.co.uk/news/newsArticle.aspx?type=internetNews&amp;storyID=2005-05-11T093454Z_01_YUE134494_RTRIDST_0_OUKIN-LIFE-BRITAIN-MOBILES.XML"> Men chat and women text - research </a>

@@ -3,7 +3,15 @@
   "slug": "ubuntu-swap-partition-unresponsive",
   "title": "Ubuntu swap partition - unresponsive system",
   "author": "YT Kuah",
-  "date": "2007-08-29T12:12:00+12:00"
+  "date": "2007-08-29T12:12:00+12:00",
+  "tags": [
+    "technology",
+    "feisty",
+    "fglrx",
+    "ubuntu",
+    "suspend",
+    "swap"
+  ]
 }
 
 I have been having problems with my Feisty for some time now. Since I started using it for <a href="http://www.zoomin.co.nz/">work</a>, I have found that even running just Firefox and Eclipse will sometimes cause my computer to lockup and hang.<br /><br />I have hunted high and low until I noticed that ... I have 0 swap memory! Indeed, I have created a swap partition but <span style="font-weight: bold;">top </span>and <span style="font-weight: bold;">free</span> now both report 0 swap memory.<br /><br />Once the problem is found, a solution is always found in Google's index. This <a href="https://bugs.launchpad.net/ubuntu/+bug/105490">bug report</a> and <a href="https://bugs.launchpad.net/ubuntu/+source/util-linux/+bug/66637">this one too</a> has helped me solve the problem (we'll see).<br /><br />Basically (taken verbatim from <a href="https://bugs.launchpad.net/ubuntu/+bug/105490/comments/18">Nick</a>,<br /><pre><br />Fiesty Swap/hibernate fix:<br /><br />- Check swap: $ free | grep Swap<br /><br />If you see the follow then your Swap file is broken:<br /><br />Swap: 0 0 0<br /><br />- Find the device name of swap: $ sudo fdisk -l<br /><br />UUID support appears to be broken as far as the Swap is concerned.<br /><br />- Edit fstab with correct non-UUID information: $ sudo gedit /etc/fstab<br /><br />- Edit resume with correct non-UUID information: $ sudo gedit /etc/initramfs-tools/conf.d/resume<br /><br />Example: RESUME=/dev/sda6<br /><br />- sudo update-initramfs -u<br /><br />- Reboot<br /><br />- Check swap if you want: $ free | grep Swap<br /><br />- Open some apps<br /><br />- Test hibernate<br /></pre>And now I can run Eclipse, Firefox, top, rake test all at once! Will have to try out the hibernate though.<br /><br /><span style="font-weight: bold;">update: </span>This <a href="http://wiki.cchtml.com/index.php/Ubuntu_Feisty_Installation_Guide#If_suspend_is_not_working">page</a> here describes how to fix the problem of the laptop failing to resume after suspend, for fglrx users. Now my laptop is working as it should be!

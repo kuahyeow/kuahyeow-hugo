@@ -3,7 +3,14 @@
   "slug": "events-today",
   "title": "Events today",
   "author": "YT Kuah",
-  "date": "2007-08-31T20:53:00+12:00"
+  "date": "2007-08-31T20:53:00+12:00",
+  "tags": [
+    "society",
+    "news",
+    "politics",
+    "events",
+    "malaysia"
+  ]
 }
 
 Hmm...Today is <a href="http://en.wikipedia.org/wiki/Merdeka">Merdeka.</a> In fact, it is the 50th anniversary since Malaysia became independent. Half a century, it deserves some celebration, but definitely not in <a href="http://blog.limkitsiang.com/2007/08/30/farce-of-patritoism-by-handful-of-bn-mps-black-chapter-for-parliament-and-blot-for-50th-merdeka-anniversary/">this way</a>.<br /><br />I wonder. By all means, shout Merdeka, but don't do it in such a way that it rings hollow! I guess the opposition was caught, they should have expected something like this. However, such political savvy is hard to come by, from a party that does not seem to want to form the <a href="http://www.dapmalaysia.org/newenglish/">next government</a>. Then again, the political environment and the <a href="http://en.wikipedia.org/wiki/Malaysian_general_election%2C_2004#Table_of_results">electoral system</a> is against anyone but the incumbent.<br /><br />Some news from <a href="http://www.nst.com.my/Current_News/NST/Friday/Frontpage/20070831073613/Article/index_html">Malaysia</a> (may not be online long), and <a href="http://news.bbc.co.uk/2/hi/asia-pacific/6970348.stm">Malaysia (ala BBC)</a>. Some <a href="http://greenbande.wordpress.com/2007/08/31/happy-birthday-malaysia/">blog</a> <a href="http://www.lowyat.net/v2/latest/malaysia-is-50-merdeka.html">postings</a>, and one from <a href="http://www.google.com.my/logos/malaysia07.gif">the source of all good</a>.<br /><br />On a more local note, I like the way today's Daffodil Day was organised. National Bank even organized a sausage sizzle outside their branches. Nice. People were giving most generously, many in 10 dollar notes.<br /><br />I'll end with this problem, how does society move forward without sorting out its core problems (i.e constitution) ?

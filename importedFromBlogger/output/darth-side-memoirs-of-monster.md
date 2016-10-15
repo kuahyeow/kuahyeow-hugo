@@ -3,7 +3,10 @@
   "slug": "darth-side-memoirs-of-monster",
   "title": "The Darth Side: Memoirs of a Monster",
   "author": "YT Kuah",
-  "date": "2005-11-11T23:13:00+13:00"
+  "date": "2005-11-11T23:13:00+13:00",
+  "tags": [
+    "interesting"
+  ]
 }
 
 <a href="http://darthside.blogspot.com/">The Darth Side: Memoirs of a Monster</a>

@@ -3,7 +3,10 @@
   "slug": "musings-by-marina-mahathir",
   "title": "MUSINGS by Marina Mahathir",
   "author": "YT Kuah",
-  "date": "2005-06-02T23:43:00+12:00"
+  "date": "2005-06-02T23:43:00+12:00",
+  "tags": [
+
+  ]
 }
 
 A Must Read!<br /><br /><a href="http://www.thestar.com.my/lifestyle/story.asp?file=/2005/6/1/features/11089547&sec=features">Musings by Marina Mahathir</a><br /><br />This is an excellent piece of opinion from Marina on Malaysia and where would YOU like it to go to. Refreshingly honest. What do you think? ;)

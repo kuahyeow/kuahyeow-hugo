@@ -3,7 +3,10 @@
   "slug": "blogging",
   "title": "Blogging",
   "author": "YT Kuah",
-  "date": "2007-08-21T22:50:00+12:00"
+  "date": "2007-08-21T22:50:00+12:00",
+  "tags": [
+    "blogging"
+  ]
 }
 
 It's been a while since I blogged but I always find that I get my ideas for blogging when I am walking. That makes it pretty inconvenient, isn't it? Wish I had a thought recorder ;) Anyone want to suggest one?

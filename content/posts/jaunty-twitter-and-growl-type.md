@@ -3,7 +3,15 @@
   "slug": "jaunty-twitter-and-growl-type",
   "title": "Jaunty, Twitter and 'Growl' type notifications (notify-osd)",
   "author": "YT Kuah",
-  "date": "2009-05-18T09:51:00.0+12:00"
+  "date": "2009-05-18T09:51:00.0+12:00",
+  "tags": [
+    "technology",
+    "twitter client",
+    "ubuntu",
+    "growl",
+    "gwibber",
+    "notify-osd"
+  ]
 }
 
 It's been a long, two-stepped journey to get to Jaunty from Hardy, all so that I can experience <a href="https://wiki.ubuntu.com/NotifyOSD">notify-osd</a> with Twitter updates.<br /><br />The upgrade has been long and slow (NZ internet!) but  I found the end result strangely unsatisfying. Yes, notifications work, and there's a new "Computer Janitor", but that's it. A bit let down.<br /><br />Then I found out about <a href="https://wiki.ubuntu.com/Gwibber">Gwibber</a>, the new twitter client on Ubuntu. It is by far superior to other clients on Linux. Previously, pidgin-twitter had to suffice, but no longer. However, Gwibber does not seem to do notifications on my Jaunty laptop. In my Intrepid desktop, notification bubbles do pop up, though in non-NotifyOSD style at the bottom.<br /><br />In other news, I've hit a bug / issue with my Intrepid desktop where I <a href="https://bugs.launchpad.net/ubuntu/+source/nautilus/+bug/376345">can't open any folder</a> in the File Manager. :( Gnome or Nautilus experts that can help would be much appreciated

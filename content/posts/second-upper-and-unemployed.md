@@ -3,7 +3,10 @@
   "slug": "second-upper-and-unemployed",
   "title": "Second upper, and unemployed",
   "author": "YT Kuah",
-  "date": "2005-06-06T21:54:00+12:00"
+  "date": "2005-06-06T21:54:00+12:00",
+  "tags": [
+
+  ]
 }
 
 <a href="http://thestar.com.my/news/story.asp?file=/2005/5/29/education/11040320&amp;sec=education">Second upper, and unemployed</a>

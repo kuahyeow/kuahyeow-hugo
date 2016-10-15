@@ -3,7 +3,10 @@
   "slug": "wow-who-are-all-these-people",
   "title": "Wow. who are all these people?",
   "author": "YT Kuah",
-  "date": "2006-03-26T15:56:00+12:00"
+  "date": "2006-03-26T15:56:00+12:00",
+  "tags": [
+
+  ]
 }
 
 <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger/7053/988/1600/comments.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://photos1.blogger.com/blogger/7053/988/320/comments.jpg" alt="" border="0" /></a><br />I have any comments on my blog sent to my gmail.<br /><br />This fine morning, I woke up and saw this bunch of comments! Imagine my surprise? Where did all this traffic come from....<br /><br />Then I realised the comments did not really make sense. They were talking about politics instead of about wises.co.nz. But they were from Malaysia and Australia and NZ. Blogger comment mixup?

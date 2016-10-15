@@ -3,7 +3,10 @@
   "slug": "issues",
   "title": "Issues...",
   "author": "YT Kuah",
-  "date": "2005-04-15T02:12:00+12:00"
+  "date": "2005-04-15T02:12:00+12:00",
+  "tags": [
+
+  ]
 }
 
 One of my courses in uni this year is Ethical and Legal Issues for IT. This paper, I consider to be one of the few papers, which is totally out of sync with all my other courses(try comparing with Programming Languages, or even Database Systems. Still it is a very good place to discuss the many issues plaguing the IT field at the moment. Things such as privacy(supremely important in developed countries, but not so in say, Malaysia) or piracy, which is made easier by the digital format and the development of various new tools. Speaking of piracy, it seems to be the biggest thing these days. Well, more specifally file sharing. There are now two legistation news items, one is MGM vs Grokster [<a href="http://www.blogmaverick.com/entry/1234000230037801/" target="_blank">Mark Cuban</a>, <a href="http://www.eff.org/IP/P2P/MGM_v_Grokster/" target="_blank">EFF</a>] and the latest where the RIAA [<a href="http://yro.slashdot.org/article.pl?sid=05/04/12/1927210" target="_blank">Slashdot</a>] has filed lawsuits against hundreds of individual students across America. The music industry there seems to be fighting back with lawsuits. What about in Malaysia? Last I heard, they were still posting losses, though it seems it not so bad now. I'll have to find out soon about that. I wonder how do people think about piracy these days, especially with whole copies of movies being downloaded. (Imagine a $300 million film like LOTR being bought down the way of Malaysian music, more likely in the future, not now...)

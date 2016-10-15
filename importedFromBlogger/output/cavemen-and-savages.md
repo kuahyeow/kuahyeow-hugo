@@ -3,7 +3,10 @@
   "slug": "cavemen-and-savages",
   "title": "Cavemen and Savages",
   "author": "YT Kuah",
-  "date": "2005-05-28T23:31:00+12:00"
+  "date": "2005-05-28T23:31:00+12:00",
+  "tags": [
+    "interesting"
+  ]
 }
 
 <p>You'll have to bear with me, as I'm blogging while cleaning my room :P<br /><br />I went to the doctor yesterday about a sore on my lip. Turns out it was a cold sore. That first sentence from the doctor was okay. Next come a whole sermon about what cavemen ate hundreds of thousands of years ago. "Milk is bad. Grains, pooh pah." At this point I'm thinking err, then what does one eat? The Doc then continued, "Men hasn't changed since they were cavemen, even though our food has." So, essentially we're putting in foods that are useless to our body. Here are some gems from the following 10 minutes...<br /><ul><li>Since the agricultural revolution, humans has shrunk by 6 inches.</li><li>Soybean oil? Junk! Non-cholesterol?! You need foods like butter, coconut oil, lach.</li><li>People need sunlight. Gives Vitamin D, also the sun striking the back of our eyes activates the brain.</li><li>Raw! Think quality. Nuts are good. Seeds too. Try sesame seeds...</li><li>2 minute noodles last you only 2 minutes!</li><li>Just fruits for breakfast!</li><li>Oh, and drink water as well...</li></ul><p>So, as you can see, he gets more sensible towards the end. Makes me wonder if those in the beginning are true?</p><p>As a complete aside, we watched "<a href="http://abc.go.com/primetime/completesavages/about.html" target="_blank">Complete Savages</a>" on Saturday. It was utter comedy, about a dad raising his five sons. Every sentence was sheer comedic genius. Even such a common phrase like "Ask her, stupid!" is timed perfectly. LOL...Must see again next week.</p><br /><p><br /></p>

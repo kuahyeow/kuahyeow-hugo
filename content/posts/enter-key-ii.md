@@ -3,7 +3,14 @@
   "slug": "enter-key-ii",
   "title": "Enter Key (II)",
   "author": "YT Kuah",
-  "date": "2008-08-04T10:33:00.0+12:00"
+  "date": "2008-08-04T10:33:00.0+12:00",
+  "tags": [
+    "technology",
+    "terse",
+    "firefox",
+    "delicious bookmarks",
+    "enter"
+  ]
 }
 
 My previous <a href="http://yeowthong.blogspot.com/2008/06/stupid-enter-key.html">post about the enter key</a> and the <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=437364">bug report</a> that resulted from it has yielded a cause. Turns out that Delicious bookmarks (version 2.0.72) add-on seems to be causing the issue. There are already a number of <a href="http://tech.groups.yahoo.com/group/delicious-firefox-extension/message/2998">Yahoo! group posts</a> about the problem, but no one managed to crack that so far... till now. :)

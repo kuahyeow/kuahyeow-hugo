@@ -3,7 +3,10 @@
   "slug": "jail-for-poor-ns-dodger-who-could-not",
   "title": "Jail for poor NS dodger who could not pay fine",
   "author": "YT Kuah",
-  "date": "2005-05-11T16:53:00+12:00"
+  "date": "2005-05-11T16:53:00+12:00",
+  "tags": [
+
+  ]
 }
 
 <a href="http://www.thestar.com.my/news/story.asp?file=/2005/5/11/nation/10920287&amp;sec=nation">Jail for poor NS dodger who could not pay fine</a><br /><br />Looks like the Government, instead of making an example of dodgers, has made a very good example of itself, instead. This serves to highlight how the programme has been fraught with problems, from transportation problems, security and of course, rushing the bill through Parliament. We need to have a credible opposition. Where is it?<br /><br />Good for the Perlis Umno Youth to offer to help pay the fine. <br /><br />Caveat: This depends on the truth of the chap's story though.

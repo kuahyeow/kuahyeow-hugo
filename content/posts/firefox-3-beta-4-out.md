@@ -3,7 +3,14 @@
   "slug": "firefox-3-beta-4-out",
   "title": "Firefox 3 Beta 4 out",
   "author": "YT Kuah",
-  "date": "2008-03-21T23:15:00.0+13:00"
+  "date": "2008-03-21T23:15:00.0+13:00",
+  "tags": [
+    "ubuntu",
+    "ssl",
+    "firefox",
+    "gmail",
+    "firefox3"
+  ]
 }
 
 Firefox 3 Beta 4 is out! Nice to see some visual integration with the OS.<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_ftRNxhptfh4/R-OLlknPxOI/AAAAAAAAASI/MMh1QPNVRFM/s1600-h/beta4.png"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://3.bp.blogspot.com/_ftRNxhptfh4/R-OLlknPxOI/AAAAAAAAASI/MMh1QPNVRFM/s320/beta4.png" alt="" id="BLOGGER_PHOTO_ID_5180137474005910754" border="0" /></a><br />I just realised https://gmail.com fails in Firefox 3. Google should really get a proper SSL certificate...<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_ftRNxhptfh4/R-OL60nPxPI/AAAAAAAAASQ/I5JGAf7V0LA/s1600-h/https-gmail.png"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://4.bp.blogspot.com/_ftRNxhptfh4/R-OL60nPxPI/AAAAAAAAASQ/I5JGAf7V0LA/s320/https-gmail.png" alt="" id="BLOGGER_PHOTO_ID_5180137839078130930" border="0" /></a>

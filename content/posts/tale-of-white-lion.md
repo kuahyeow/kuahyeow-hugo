@@ -3,7 +3,11 @@
   "slug": "tale-of-white-lion",
   "title": "Tale of the White Lion",
   "author": "YT Kuah",
-  "date": "2007-02-13T23:16:00+13:00"
+  "date": "2007-02-13T23:16:00+13:00",
+  "tags": [
+    "tale of the white lion",
+    "muffin"
+  ]
 }
 
 Well, there's been two episodes of the <a href="http://kuahyeow.blogspot.com/2006/12/tale-of-white-lion.html">Tale of the White Lion.</a> (<a href="http://kuahyeow.blogspot.com/2006/12/tale-of-white-lion.html">Episode 1,</a> <a href="http://kuahyeow.blogspot.com/2007/02/tale-of-white-lion-ii.html">Episode 2</a>).<br /><br />Head on over to have a look!

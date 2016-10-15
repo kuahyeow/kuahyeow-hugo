@@ -3,7 +3,10 @@
   "slug": "on-use-of-application-languages",
   "title": "On the use of application languages",
   "author": "YT Kuah",
-  "date": "2005-06-26T18:32:00+12:00"
+  "date": "2005-06-26T18:32:00+12:00",
+  "tags": [
+
+  ]
 }
 
 There seems to be quite an explosion of demand in more powerful websites equipped with server capabilities using scripts like <a href="http://weblogs.mozillazine.org/roadmap/archives/008325.html">JavaScript</a>, PHP, and Perl, having been involved with a couple of PHP companies. However, I have always viewed this as "lightweight" languages, compared to Java or C++ which can be used for files and system programming as well. Of course, the lines are becoming blur as web languages introduce more "heavyweight" features like classes (e.g. <a href="http://nz.php.net/manual/en/language.oop5.php">PHP 5</a>).<br /><br />Now, what's lightweight and what's heavyweight? In my view, these terms are more linked towards how long the language or feature will endure and be popular in some form. For example, JavaScript went for the stars soon after its launch, then languished as compatibility issues set in across different browsers, then now with it's on the rise again. Heavyweight stuff, like C++, has always been used in systems programming all these decades.<br /><br />So, how does one decide whether to specialise in lightweight stuff, which could slide in popularity and in turn demand, or heavyweight stuff? It could be that this surge in demand for server-powered websites may be alas, temporary.<br /><br />[Note to self: this might be for <a href="http://slashdot.org">./</a>?] [Post-note: I'll probably get ./// for my definitions of lightweight and heavyweight]

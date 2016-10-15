@@ -3,7 +3,14 @@
   "slug": "trying-to-do-impossible",
   "title": "Trying to do the impossible",
   "author": "YT Kuah",
-  "date": "2009-09-06T21:01:00.0+12:00"
+  "date": "2009-09-06T21:01:00.0+12:00",
+  "tags": [
+    "technology",
+    "left-field",
+    "ruby",
+    "discussion",
+    "random"
+  ]
 }
 
 Someone always asks this question -&nbsp; how do you <a href="http://groups.google.com/group/comp.lang.ruby/browse_thread/thread/58eaa27c3e6409f7?hl=en#">check types in Ruby</a>? (*Hint: Ruby use <a href="http://en.wikipedia.org/wiki/Dynamic_type#Dynamic_typing">dynamic typing</a>) This typical newbie question would ask this and be answered with various levels of <i>helpfulness</i> - typically none - sadly. <br /><br />However this thread is just <b>beautiful</b> in its helpfulness. <a href="http://groups.google.com/group/comp.lang.ruby/msg/eb4b49a511e44be6?hl=en">http://groups.google.com/group/comp.lang.ruby/msg/eb4b49a511e44be6?hl=en</a><br /><br />What happended snarkiness, or Slashdot / Youtube style comments? All this helpfulness must come from somewhere. I blame <a href="http://search.twitter.com/search?q=helpful">Twitter</a>.

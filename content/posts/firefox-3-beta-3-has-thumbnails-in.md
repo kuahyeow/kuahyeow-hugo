@@ -3,7 +3,13 @@
   "slug": "firefox-3-beta-3-has-thumbnails-in",
   "title": "Firefox 3 Beta 3 has thumbnails in uploads",
   "author": "YT Kuah",
-  "date": "2008-03-01T22:50:00.0+13:00"
+  "date": "2008-03-01T22:50:00.0+13:00",
+  "tags": [
+    "ubuntu",
+    "firefox",
+    "image upload",
+    "thumbnails"
+  ]
 }
 
 Finally....<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_ftRNxhptfh4/R8koatPNwqI/AAAAAAAAASA/f4OngzeIAIY/s1600-h/Screenshot-2.png"><img style="cursor: pointer;" src="http://3.bp.blogspot.com/_ftRNxhptfh4/R8koatPNwqI/AAAAAAAAASA/f4OngzeIAIY/s400/Screenshot-2.png" alt="" id="BLOGGER_PHOTO_ID_5172710086296847010" border="0" /></a>

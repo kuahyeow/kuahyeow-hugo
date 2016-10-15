@@ -3,7 +3,11 @@
   "slug": "work",
   "title": "Work",
   "author": "YT Kuah",
-  "date": "2007-09-03T21:24:00+12:00"
+  "date": "2007-09-03T21:24:00+12:00",
+  "tags": [
+    "technology",
+    "work"
+  ]
 }
 
 Short update. I have started working at <a href="http://www.projectxtech.com/site/thong">ProjectX</a>, more well known for <a href="http://www.smaps.co.nz/">Smaps</a> and <a href="http://www.zoomin.co.nz">ZoomIn</a>.<br /><br />They use <a href="http://rubyonrails.org/">Ruby on Rails</a>. No more Java!

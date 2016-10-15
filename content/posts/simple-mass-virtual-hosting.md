@@ -3,7 +3,10 @@
   "slug": "simple-mass-virtual-hosting",
   "title": "Simple Mass Virtual Hosting",
   "author": "YT Kuah",
-  "date": "2006-05-29T18:17:00+12:00"
+  "date": "2006-05-29T18:17:00+12:00",
+  "tags": [
+    "technology"
+  ]
 }
 
 Using CPanel, WHM, shell Access (or plesk), DNS<br /><br />Prerequisites:<br /><ul><li>Shell Access (or ability to edit the httpd.conf)</li><li>DNS editing access</li><li>Wildcard DNS ability</li><li>PHP!</li></ul>* We use www.domain.tld as an example. Modify to suit.<br />First, make sure that your www.domain.tld works as normal<br /><br />Second, enable wildcard DNS by (various means, depending on your interface). But you should see something like<br /><blockquote>* 14400 A xxx.xxx.xxx.xxx  </blockquote>where xxx.xxx.xxx.xxx is your NS ip address (should be the same as the one in the www A record)<br /><br />Third, change/add the ServerAlias directive in your httpd.conf file to something like<br /><blockquote>ServerAlias *.domain.tld<br /></blockquote>You should see now that all addresses,  *.domain.tld will be redirected internally to www.domain.tld<br /><br />Last, use Php's $HTTP_HOST command and explode and you're done!

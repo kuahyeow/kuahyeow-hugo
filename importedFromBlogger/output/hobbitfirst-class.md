@@ -3,7 +3,10 @@
   "slug": "hobbitfirst-class",
   "title": "The Hobbit...First Class",
   "author": "YT Kuah",
-  "date": "2005-04-23T02:27:00+12:00"
+  "date": "2005-04-23T02:27:00+12:00",
+  "tags": [
+
+  ]
 }
 
 <strong><em>Yay!</em></strong> Tonight was fun! We(my gf and me) went to a live stage acting of the Hobbit. I'm afraid to say this, but this is kind of the first time I've ever been to a live theatre with live actors and voice! So far, my experiences of the arts has been dance and ballet...<br /><br />So, for those who don't know the story...it all starts with this, <blockquote>"In a hole in the ground there lived a hobbit." </blockquote>We then follow our main character, <span style="color:#009900;">Bilbo</span>, into a great adventure...<br /><br />The various creatures in the show were done by having humans put on costumes. There was the wacky(?) trolls with boxing gloves and head gear; flying 'eagles' who 'swooped' in with long wings; and a rather impressive Gollum. However, the wolfs were horrible (wolfheads with bones?) and also the goblins! Eww..they just look like Bowser from Super Mario....<br /><br />Oh, the highlight, which was Smaug, the <span style="color:#ff0000;">dragon</span>! Excellent use of light and lasers(?) to depict the eyes of the dragon. Well, of course they used a life-sized puppet dragon head as well. The dragon's eye were kind of hypnotic (in a sense) which reflects Tolkien's view of dragons. Beware of dragons! They can twist your mind and deceive your eyes!<br /><br />The show's lighting, music and set was excellent. In the eagle scene, the lights were manipulated to depict blue sky and clouds, which is a really cool effect. Makes you feel you are up in the air. And they did all this with just a rotatable disc, a bridge and some various backgrounds. We realised also that they had to have the actors move the set around! The narrator, besides narrating, also played a role as postman, passing letters and messages to the characters(the invisible postman?). Plus, one actor has more than one role. Gandalf is also Smaug. Gollum is also Bard and also acts as a Dwarf.<br /><br />It was a really enjoyable show. :) I give 4.5/5. Well worth it!

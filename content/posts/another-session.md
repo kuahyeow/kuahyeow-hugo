@@ -3,7 +3,10 @@
   "slug": "another-session",
   "title": "Another session",
   "author": "YT Kuah",
-  "date": "2006-01-05T03:33:00+13:00"
+  "date": "2006-01-05T03:33:00+13:00",
+  "tags": [
+
+  ]
 }
 
 Warning: This is going to be a rambling post.<br /><br />So, today we had another <a href="http://drupal.org">Drupal</a> session where we tied up loose ends that we have started with profile search thing. Turns out that creating a search form is not that hard. All we need is just two additional functions, one to create the search form; and the other to display the results.<br /><br />Did I tell u that Drupal is great! The search form is not the only way we can do this though. People also can browse through user profiles and-> if they see some type they like, say, "Never Married", they can always click on "Never Married" and poof, <span style="font-weight: bold;">every </span>member who is "Never Married" comes up. Its a fantastic system which handles members and structured communities quite well indeed.<br /><br />Well, communities remind me of Friendster. Friendster, is pretty nifty, however, there are several stupid bugs that really bug me. One, 10% of the time I get a white screen instead of the content I expect. The groups interface is also really alphaish, and it doesn't allow you invite members properly! The list of friends to invite from doesn't display the complete list of friends to invite! It really leaves me the overall impression that it is still Betaish. Bad for a website that existed for a couple of years already....<br /><br />....rambles on... but Friendster has allowed me to get into contact with my ye old friends again....sigh, if now the only thing is to connect them to this blog :)

@@ -3,7 +3,10 @@
   "slug": "why-users-fill-out-forms-faster-with",
   "title": "Why Users Fill Out Forms Faster With Top Aligned Labels | UXMovement.com",
   "author": "YT Kuah",
-  "date": "2010-09-02T10:56:00.0+12:00"
+  "date": "2010-09-02T10:56:00.0+12:00",
+  "tags": [
+
+  ]
 }
 
 <div class="Amp_Content_Outer_Bookmark"><div class="Amp_Bookmark_Link">URL: &nbsp;<a rel="clipsource" target="_blank" title="http://uxmovement.com/design-articles/faster-with-top-aligned-labels" href="http://uxmovement.com/design-articles/faster-with-top-aligned-labels">http://uxmovement.com/design-articles/faster-with-top-a...</a></div></div><div class="Amp_Link">See this Amp at <a href="http://amplify.com/u/9kjp">http://amplify.com/u/9kjp</a></div><br/>

@@ -3,7 +3,14 @@
   "slug": "stupid-enter-key",
   "title": "Stupid Enter Key",
   "author": "YT Kuah",
-  "date": "2008-06-09T15:55:00.0+12:00"
+  "date": "2008-06-09T15:55:00.0+12:00",
+  "tags": [
+    "technology",
+    "usability",
+    "firefox",
+    "bug",
+    "enter"
+  ]
 }
 
 <blockquote>Why doesn't the enter key work?</blockquote>That would be one of the occasional pain points that I have experienced in Firefox. I could never figure out why, only that restarting Firefox is the only way to cure it. Annoying.<br /><br />Besides the memory issue, this would be the next <span style="font-weight: bold; font-style: italic;">biggest </span>problem with Firefox. Hence, imagine my delight when I stumbled onto a <span style="font-style: italic;">reproducible</span> way to trigger the issue. Just open two new Firefox windows in quick succession, then close one. The remaining one will have the enter key disabled. I still don't know why (there's no errors in the error console). Therefore I have opened a bug about this <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=437364">enter key bug</a> in bugzilla. Hopefully, the powers that be in mozilla, et all can help fix this!

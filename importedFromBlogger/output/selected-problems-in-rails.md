@@ -3,7 +3,12 @@
   "slug": "selected-problems-in-rails",
   "title": "selected problems in rails?",
   "author": "YT Kuah",
-  "date": "2008-08-13T17:57:00.0+12:00"
+  "date": "2008-08-13T17:57:00.0+12:00",
+  "tags": [
+    "technology",
+    "ruby",
+    "short"
+  ]
 }
 
 One thing I found out that about rails is that the select_tag is a pain. Why? Because this would not work:<br /><pre><%= select_tag 'industry', options_from_collection_for_select(@industry_list, "id", "name", @industry) %><br /></pre>But this would work:<br /><pre><%= select_tag 'industry', options_from_collection_for_select(@industry_list, "id", "name", @industry.to_i) %><br /></pre>Well, that's for forgetting that HTTP query parameters are strings!

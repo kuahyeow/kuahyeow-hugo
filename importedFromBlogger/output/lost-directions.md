@@ -3,7 +3,10 @@
   "slug": "lost-directions",
   "title": "Lost Directions",
   "author": "YT Kuah",
-  "date": "2006-03-21T20:28:00+12:00"
+  "date": "2006-03-21T20:28:00+12:00",
+  "tags": [
+
+  ]
 }
 
 <div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger/7053/988/1600/lost.jpg"><img style="margin: 0pt 10px 10px 0pt; cursor: pointer;" src="http://photos1.blogger.com/blogger/7053/988/320/lost.jpg" alt="" border="0" /></a><br /></div>Today, wises decided to give a ticket to hell. They gave a map and directions to nowhere! If you notice the picture, Broomhill Road is a dead end. (complete with fallen log, jungle track, non-tarred road, and being one-lane-so-turning-around-is-oh-so-hard). It doesn't lead to Highbury Road or Highbury Crescent or whatever.<br /><br />Note to self: Mt Pleasant Rd is not so pleasant after all. How do those ppl live and drive there? It's a horror to drive there.....<br /><br />So I sent an email to Wises.<br /><br />My letter to <a href="http://www.wises.co.nz">wises.co.nz</a><blockquote></blockquote><blockquote>Hi,<br /><br />If you kindly click at the link at the bottom of this email, you will find a most horrendous mistake! I had to make it to Highbury in Wellington having never been there, but the directions are wrong!<br /><br />In particular: there is no connection between Broomhill Road to Highbury Crescent! I drove to three dead ends without ever coming near my destination. Please kindly correct the map and directions ASAP.<br /><br />Dissatisfied,<br />Thong<br /><br />=======================================================<br />Click on or cut-n-paste the entire link below in your browser address window to view a map<br /><br /><a href="http://www.wises.co.nz/map/?d=0&id=63475%7C2%2C+51175%7C2&amp;svctype=4&amp;routemethod=1">Click here for map</a><br /><br />Powered By Wises Maps<br />=======================================================</blockquote>So beware of map directions or you shall plunge down jungles and cliffs!

@@ -3,7 +3,12 @@
   "slug": "categories-of-fiction",
   "title": "Categories of fiction",
   "author": "YT Kuah",
-  "date": "2008-04-17T13:45:00.0+12:00"
+  "date": "2008-04-17T13:45:00.0+12:00",
+  "tags": [
+    "rambling",
+    "life",
+    "fiction"
+  ]
 }
 
 Just noticed in my head that the Death Gate cycle, Wheel of Time, and Dune share some things in common. Namely, Earth existed in the distant past, and a future where magic seems like like some really advanced physics on a subatomic level, practiced by humans with innate talent for it.<br /><br />Well, just wanted to jot down my thoughts...

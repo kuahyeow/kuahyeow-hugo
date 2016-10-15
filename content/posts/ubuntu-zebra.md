@@ -3,7 +3,13 @@
   "slug": "ubuntu-zebra",
   "title": "Ubuntu Zebra",
   "author": "YT Kuah",
-  "date": "2008-06-26T11:30:00.0+12:00"
+  "date": "2008-06-26T11:30:00.0+12:00",
+  "tags": [
+    "ubuntu",
+    "ubuntu zebra",
+    "ubuntu zesty zebra",
+    "hardy heron"
+  ]
 }
 
 Just upgraded to Ubuntu Hardy Heron. Again it broke my graphics driver. Envy (now EnvyNG) to the rescue again.<br /><br />As it was a Dell Vostro 200, there was some problem with IDE modes and such like, causing Ubuntu to fail booting! A change in the boot settings helped. See this bug report (<a href="https://bugs.launchpad.net/ubuntu/+source/linux-source-2.6.22/+bug/153702">https://bugs.launchpad.net/ubuntu/+source/linux-source-2.6.22/+bug/153702</a>)<br /><br />So, I have been through Edgy, Feisty, Gutsy, and now Heron. Just a thought, what happens after Ubuntu Zesty Zebra ? ;)

@@ -3,7 +3,10 @@
   "slug": "return-of-blog",
   "title": "The return of the blog!",
   "author": "YT Kuah",
-  "date": "2005-10-18T15:21:00+13:00"
+  "date": "2005-10-18T15:21:00+13:00",
+  "tags": [
+
+  ]
 }
 
 :)<br /><br />After 6 months, I'm back, for a while

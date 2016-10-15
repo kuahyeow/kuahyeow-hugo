@@ -3,7 +3,12 @@
   "slug": "more-events",
   "title": "More Events",
   "author": "YT Kuah",
-  "date": "2007-09-07T10:50:00+12:00"
+  "date": "2007-09-07T10:50:00+12:00",
+  "tags": [
+    "society",
+    "politics",
+    "events"
+  ]
 }
 
 Walking to work today, went past Westpac <a href="http://www.lifeflight.org.nz/">Lifeflight</a> day - Coffee and donuts was given out instead of a <a href="http://yeowthong.blogspot.com/2007/08/events-today.html">sausage sizzle</a>. Coffee and donuts?! I don't what Westpac was thinking. Maybe it's just me and my broken knee (I injured my knee).<br /><br />Noon came rise to futsal in the <a href="http://www.zoomin.co.nz/nz/wellington/wellington+central/-civic+square/">Civic Square</a>. Turns out it was Brazillian National Day today, and one must <span style="font-style: italic;">celebrate</span> with samba and football! Very nice, with sunshine and all. Too bad I don't have a camera in my phone.<br /><br />In other news, <a href="http://machinegunkeyboard.com/shao/?p=526">Fortress Sydney</a> has been breached. Yes, breached, by some <a href="http://www.abc.net.au/news/stories/2007/09/06/2026372.htm">comedians</a>! Why bother when a bunch of TV actors can just waltz in. What really rankles me is the hypocrisy of the <span style="font-style: italic;">world leaders</span>. What kind of leader shuts down peoples' daily lives by blocking every major road in the city? Is there an emergency? No. If they have to <span style="font-style: italic;">meet, </span>go meet out in the desert. Plenty of space, and no-one will be able to find you there. Safe.<br /><br /><span style="font-weight: bold;">Update: </span>Will you look at the comments by the Aussies at the news site! (<a href="http://www.abc.net.au/news/stories/2007/09/06/2026199.htm">http://www.abc.net.au/news/stories/2007/09/06/2026199.htm</a>) They roundly support the comedians. Quite light-hearted but sensible comments. It actually made me laugh.

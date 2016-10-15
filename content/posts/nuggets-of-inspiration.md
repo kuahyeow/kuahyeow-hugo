@@ -3,7 +3,15 @@
   "slug": "nuggets-of-inspiration",
   "title": "Nuggets of inspiration",
   "author": "YT Kuah",
-  "date": "2009-10-27T22:33:00.0+13:00"
+  "date": "2009-10-27T22:33:00.0+13:00",
+  "tags": [
+    "technology",
+    "life",
+    "business",
+    "wisdom",
+    "inspiration",
+    "lessons learnt"
+  ]
 }
 
 Some good Software Engineering pearls of wisdom :&nbsp; <br /><br /><a href="http://www.codinghorror.com/blog/archives/001303.html">Coding Horror: The Xanadu Dream</a><br /><blockquote>The bottom line is that a lot of the time it's OK to create a solution that solves 80% of the problem. Always remember that <i><b>shipping is a feature</b></i>.<br /></blockquote><a href="http://joi.ito.com/weblog/2009/08/11/agile-developme.html" title="Agile development, startups and government policy">Agile development, startups and government policy</a><br /><blockquote>My recommendation to just about anyone with an idea is to just build the thing, iterate until you have some user traction, then pitch angel investors based on that traction. This is very much in line with the old IETF motto of "<i><b>rough consensus, running code</b></i>."<br /></blockquote>And from the startup side of things:&nbsp; <br /><br /><a href="http://www.techcrunch.com/2009/10/11/finding-your-co-founders/" rel="bookmark" title="Finding Your Co-Founders">Finding Your Co-Founders</a><br /><blockquote>It’s most comfortable to hang out with people like ourselves, but those are exactly the folks you probably don’t want to co-found a startup with. ...The best founding team for a startup is a group of two or three people who have <i><b>synergistic – not overlapping</b></i> – skills. Note that it’s also important your goals and passions be similar.<br /></blockquote>This matches well to what the <a href="http://en.wikipedia.org/wiki/The_Black_Swan_%28Taleb_book%29">Black Swan book</a> says - maximise your serendipity, you increase your chances of success this way

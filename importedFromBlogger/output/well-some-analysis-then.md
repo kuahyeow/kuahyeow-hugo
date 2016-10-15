@@ -3,7 +3,10 @@
   "slug": "well-some-analysis-then",
   "title": "Well, some analysis then",
   "author": "YT Kuah",
-  "date": "2006-03-26T16:06:00+12:00"
+  "date": "2006-03-26T16:06:00+12:00",
+  "tags": [
+
+  ]
 }
 
 I've always hated the way Malaysian bloggers write about this concept of race: So, given that I accidentally have this treasure trove of <a href="http://yeowthong.blogspot.com/2006/03/lost-directions.html#c114334070127585107">data</a>, I might as well perform some analysis on it.<br /><br />Methodology: open up pdf <a href="http://rapidshare.de/files/16460191/comments-wordcount.pdf.html">file </a>(Acrobat reader: and search (whole word only)<br />Limitations: Ignores context of the word being counted<br /><br />Note: the pdf file refers to the "surprise comments" made on my blog, all about politics, <strike>which I will post it up when I find a file server to upload it to. </strike><br /><br />Number of comments: 12<br /><br /><span style="font-weight: bold;">Word</span> - <span style="font-weight: bold;">Number of occurrences</span><br />Neutral words:<br />Race(s) - 15<br /><br />Words I hate being used:<br />Indian(s) - 8<br />Chinese - 12<br />Malay(s) - 65<br />Subtotal - 85<br /><br />Words I much prefer:<br />Malaysian - 21<br /><br />Well, looks like the hated words still win! Mind you, the discussion wasn't uncivilized at all, at first glance. It seems that we are so ingrained with this mentality. I wonder who else <span style="font-style: italic;">cringes </span>when they hear the hated words being said?

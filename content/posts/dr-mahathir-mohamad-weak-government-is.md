@@ -3,7 +3,10 @@
   "slug": "dr-mahathir-mohamad-weak-government-is",
   "title": "A weak government is a weak government",
   "author": "YT Kuah",
-  "date": "2008-05-05T01:06:00.0+12:00"
+  "date": "2008-05-05T01:06:00.0+12:00",
+  "tags": [
+
+  ]
 }
 
 <a href="http://www.chedet.com/2008/05/weak-government-is-not-good-for-multi.html">Dr Mahathir Mohamad: A Weak Government is not good for Multi-racial Malaysia</a><br /><br />Here is my comment on the above:<br /><br />welcome to the blogosphere. I have admired your consistent statements and vision. In the process of a maturing democracy, a strong government is needed, agreed. However, I must question how is the Opposition able to perform its duties of check and balance, if the government has two-thirds majority? Yes, the opposition can be considered a political enemy. To what extent? Governments around the world will eventually have to cooperate with other parties in passing legislation. Why burn bridges?<br /><br />I must disagree that the current government is weak because it does not have two-thirds majority. It is weak because of it's <b>leaders</b>, and hence it has <i>lost</i> the two-thirds majority. Not having two-thirds for most <i>competent</i> governments would not be a sign of weakness and not engender defections, usually, hence the equation of weakness with two-thirds is not correct. This government is weak because it is weak, and has lost the support of the people. A competent government could even govern on a 1 seat majority, or even as a minority government. For Malaysia, a country with 50 years of democracy and 12 elections, 63.5% is ample.

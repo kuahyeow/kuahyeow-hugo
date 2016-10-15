@@ -31,6 +31,7 @@ File.open(filename) do |file|
   feed.entries.each do |entry|
     next if drafts.include? entry.id.content
     next unless entry.categories.map(&:to_s).any?{|category| category.include?("post")}
+    tags = entry.categories.select {|category| category.scheme == "http://www.blogger.com/atom/ns#"}.map(&:term)
 
     frontmatter = {
       :raw => entry.to_s,
@@ -38,6 +39,7 @@ File.open(filename) do |file|
       :title => entry.title.content,
       :author => entry.author.name.content,
       :date => entry.published.content,
+      :tags => tags,
     }
     md_filename = frontmatter[:slug] + ".md"
     content = entry.content.content

@@ -3,7 +3,10 @@
   "slug": "some-new-developments",
   "title": "Some new developments",
   "author": "YT Kuah",
-  "date": "2006-05-08T02:26:00+12:00"
+  "date": "2006-05-08T02:26:00+12:00",
+  "tags": [
+
+  ]
 }
 
 Well, I have been involved in some new ventures and restarting some old ones. Check it out:<br /><br /><ul><li>www.edoodle.co.nz - an old hobby of mine, which will soon launch a website for artists soon.</li></ul><ul><li><a href="http://www.elvis.ac.nz/brain?ThongKuah">http://www.elvis.ac.nz/brain?ThongKuah</a></li></ul><ul><li><a href="http://www.wen.co.nz">www.wen.co.nz</a> A new website for my gf's art gallery</li></ul><ul><li><a href="http://littlearty.blogspot.com">littlearty.blogspot.com</a> Surprise!</li></ul><br />Gosh, life is busy!

@@ -3,7 +3,10 @@
   "slug": "briefly",
   "title": "Briefly...",
   "author": "YT Kuah",
-  "date": "2005-07-19T17:15:00+12:00"
+  "date": "2005-07-19T17:15:00+12:00",
+  "tags": [
+
+  ]
 }
 
 Ok, I'll try to squeeze as much out as I can within a couple of minutes, seeing that I'm out of time for work and study and assignments and rest.<br /><br />First, <a href="http://littlearty.blogspot.com/2005/04/my-sick-fish.html">Blackie</a> died. Dropsy. Thought it was a tumour which shrunk, and then poof, ...<br /><br />There has been plenty of worthy current events worth mentioning, but I don't have the rigour to carry out a rational analysis. I'll be content reading what bloggers and reporters have to say about this.<br /><br />Study. Excellent. Encountered my first read-ahead <a href="http://www.mcs.vuw.ac.nz/courses/COMP310/2005T2/Handouts/Requirements.shtml">course</a>, previously all the courses I had never required me to really touch the text book for study purposes.<br /><br />Work. I have now implemented Apache, James and Domain and EMail Server forwarding. Fantastic experience :)<br /><br />Java 1.5 has a lousy foreach implementation. Too cryptic.<br /><br />Ski trip :) I'll post some pictures up soon....<br /><br />Rest. now beckons...zzzzz

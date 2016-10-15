@@ -3,7 +3,17 @@
   "slug": "up-tale-of-four-cities",
   "title": "UP - A Tale of Four Cities",
   "author": "YT Kuah",
-  "date": "2008-05-06T22:29:00.0+12:00"
+  "date": "2008-05-06T22:29:00.0+12:00",
+  "tags": [
+    "technology",
+    "education",
+    "events",
+    "wellington",
+    "policy",
+    "broadband",
+    "it",
+    "up"
+  ]
 }
 
 Attended an <a href="http://www.up.org.nz">UP</a> and <a href="http://www.wellies.org.nz/">Wellies</a> event - <a href="http://www.up.org.nz/a-tale-of-four-cities/">A Tale of Four Cities</a>, on Tuesday. It was a good venue,  Syn Bar where people can unwind, compared with the old place. The free tab certainly helped. :)<br /><br />So the event was a panel discussion about how Wellington is and can be a 'hub' for innovation, IT and IT professionals. Among the topics that were discussed were how Wellington is a good place to live in, broadband, (venture) capital, immigration, and education. Among some good gems of the evening:<br /><ul><li>Broadband should be a utility, like power. (from <a href="http://209.85.173.104/search?q=cache:i9kd7AIqCdoJ:www.oecd.org/dataoecd/25/27/2736714.pdf+broadband+utility+sweden&amp;hl=en&amp;ct=clnk&amp;cd=2&amp;client=firefox-a">this link</a> - "Sweden has chosen an infrastructure road to the broadband society – another choice could have been to stimulate demand for broadband services. In a country where half of the surface area is covered by forests, where very few people live, a demand stimulation policy can be a lengthy route to take. An infrastructure build-up was regarded as a quicker way.")</li><li>"Well, [broadband] compared to Fiji or Tonga, we've got it good."</li><li>Immigration and visas - employers need to realize work visas can be obtained easily once a job offer is made, for IT professionals.</li><li>Education - I raised the point of falling enrolments in IT departments, and that Massey Wellington has moved their Software deparment to Palmerson North, hence reducing the number of students / creative / innovation in Wellington.</li></ul>There was a lot of ideas and exchanging of views after the panel discussion while we mingled. This was my first UP event for a while, and it was a good one.

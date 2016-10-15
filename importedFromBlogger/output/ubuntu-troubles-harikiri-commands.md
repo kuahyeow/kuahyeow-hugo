@@ -3,7 +3,14 @@
   "slug": "ubuntu-troubles-harikiri-commands",
   "title": "Ubuntu Troubles (Harikiri commands)",
   "author": "YT Kuah",
-  "date": "2007-01-20T01:18:00+13:00"
+  "date": "2007-01-20T01:18:00+13:00",
+  "tags": [
+    "panic",
+    "ubuntu",
+    "sudo",
+    "recovery",
+    "lessons learnt"
+  ]
 }
 
 If like me, after a <span style="font-style: italic;">long</span> week at work, you find yourself typing in a ubuntu terminal:<br /><blockquote>sudo chown mail /</blockquote>[I'll explain why later]<br /><br />Then you are in for a whole heap of trouble, because, inexplicably, sudo now does not work, instead, it complains about /var/run/sudo not owned by uid 0 (root), but by uid 8, which I presume to be the user mail.<br /><br />By the way, all contents of folder 'var' is now under the dominion of the unholy 'mail' user.<br /><br />Worst, you can't use sudo to magically set our good friend root where it belongs.<br /><br />I racked my brains for ways to make sudo work, from using a different file other than /var/run/sudo, to making sudo run as a different user other than root. None of them worked. I can't run as root either.... or could I?<br /><br />Then I realised, I can go into Ubuntu Recovery mode and it will give me terminal access <span style="font-weight: bold;">as root</span>.<br /><blockquote>chown -R root:root  var/</blockquote>And my problem is solved!<br />ps. you want to know why i did that kamikaze command. There was a 'mail' folder that was locked, and i was trying to chown it to my user. Bad move!

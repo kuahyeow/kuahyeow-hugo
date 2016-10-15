@@ -3,7 +3,10 @@
   "slug": "happy-birthday",
   "title": "Happy BIrThDay!!!",
   "author": "YT Kuah",
-  "date": "2005-05-01T19:05:00+12:00"
+  "date": "2005-05-01T19:05:00+12:00",
+  "tags": [
+
+  ]
 }
 
 Aye! Aye! my 21st Birthday! Yi Wen and me had a nice dinner courtesy of Visa Inc. who of course sends the bill to my dad. Thanks! Unfortunately that was the only time we had, there was not much time to organise a party as I'm pretty deep in the sea of assignments, swimming as fast as I can with four DEADline sharks at my tail...:P Actually it's now three, one down, 3 to go.<br /><br />I got sent a very short email from BirthdayAlarm who has a link to a "Name your star" site. Pretty harmless, as long as you don't buy anything. Check <a href="http://www.yourstar.com/star_lookup.php?star_id_1=9485780&star_id_2=77" target="_blank">this</a> out!

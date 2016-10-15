@@ -3,7 +3,12 @@
   "slug": "css-overflow",
   "title": "CSS overflow",
   "author": "YT Kuah",
-  "date": "2007-09-18T16:18:00+12:00"
+  "date": "2007-09-18T16:18:00+12:00",
+  "tags": [
+    "technology",
+    "rambling",
+    "short"
+  ]
 }
 
 In the past, I would have problems with container divs not displaying properly, having zero size. So my container div would be displayed as a line, and the rest of my content would overflow out .... Urrgh..<br /><br />So I would usually put &lt;div style="clear: both; height: 1%;"&gt;&lt;/div&gt;<br /><br />But now, thanks to <a href="http://www.quirksmode.org/css/clearing.html">http://www.quirksmode.org/css/clearing.html</a>, I have discovered the wonders of <span style="font-weight: bold;">overflow: auto</span>. :)

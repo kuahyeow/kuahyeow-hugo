@@ -3,7 +3,12 @@
   "slug": "fear-singularity",
   "title": "Fear the singularity",
   "author": "YT Kuah",
-  "date": "2009-09-06T21:17:00+12:00"
+  "date": "2009-09-06T21:17:00+12:00",
+  "tags": [
+    "technology",
+    "left-field",
+    "random"
+  ]
 }
 
 I found several interesting things this month. <br /><ul><li>Super fast <a href="http://www.youtube.com/watch?v=96dWOEa4Djs">SSD</a> hard disks<br /></li><li>21GB <a href="http://www.tomshardware.com/news/pirate-bay-torrent-bittorrent-download,8465.html">pirate bay index</a></li><li><a href="http://en.wikipedia.org/wiki/Technological_singularity">Singularity</a> <a href="http://en.wikipedia.org/wiki/Rainbows_End">in</a> <a href="http://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html">thirty years</a> </li></ul>Ok, the last one is really out there, but it points the way. Imagine the whole sum of human creative endeavor (at least the popular ones) indexed in just 21GB. All we need is just some sort of instant hash expansion for that 21GB (and 20 more years of PC power advancement). And so on and so forth. Value of data or content would be worth next to nothing.<br /><br />Will that happen? Probably, after <a href="http://en.wikipedia.org/wiki/Flying_car_%28fiction%29">flying cars</a>.

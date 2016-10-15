@@ -3,7 +3,12 @@
   "slug": "wow-yi-wen-was-featured-in-redbubble",
   "title": "Wow! Yi Wen was featured in RedBubble.",
   "author": "YT Kuah",
-  "date": "2007-08-17T23:25:00+12:00"
+  "date": "2007-08-17T23:25:00+12:00",
+  "tags": [
+    "redbubble",
+    "bubblewrap",
+    "yi wen"
+  ]
 }
 
 My dearest was featured in <a href="http://www.redbubble.com/people/littlearty">RedBubble</a> in their latest <a href="http://www.redbubble.com/bubblewrap/15/">newsletter (Bubblewrap).</a><br /><br />Scroll down to 'The couch' section :)

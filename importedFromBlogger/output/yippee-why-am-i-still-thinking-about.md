@@ -3,7 +3,10 @@
   "slug": "yippee-why-am-i-still-thinking-about",
   "title": "Yippee! ??? Why am I still thinking about Study?",
   "author": "YT Kuah",
-  "date": "2005-05-08T20:25:00+12:00"
+  "date": "2005-05-08T20:25:00+12:00",
+  "tags": [
+
+  ]
 }
 
 That's all of my assignments all done. Now to start blogging. :)<br /><br />First thing to do is to hit self on head for not discovering the new features of <a href="http://java.sun.com/j2se/1.5.0/docs/relnotes/features.html">JAVA 1.5</a> <a href="http://java.sun.com/j2se/1.5.0/docs/relnotes/features.html">[new window]</a> earlier! {whack}. A friend just mentioned that <strong>foreach</strong> is now implemented in Java. Imagine how simple would that be:<br /><blockquote>foreach (Bean in Sack) <em>do something</em></blockquote><p>instead of</p><blockquote>for(bean =1; bean <= beans in sack; next bean)</blockquote><br /><p>As well as generics(from C/C++), which is a very powerful feature. These two are the most useful for me....Better remember..:)</p><p></p>

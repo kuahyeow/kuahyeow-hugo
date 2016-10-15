@@ -3,7 +3,15 @@
   "slug": "duplicates-and-deadlocks",
   "title": "Duplicates and deadlocks",
   "author": "YT Kuah",
-  "date": "2008-04-15T16:38:00.0+12:00"
+  "date": "2008-04-15T16:38:00.0+12:00",
+  "tags": [
+    "technology",
+    "rails",
+    "ruby",
+    "deadlock",
+    "duplicate",
+    "autotest"
+  ]
 }
 
 I have been using <a href="http://www.zenspider.com/ZSS/Products/ZenTest/">autotest</a> soon after I discovered Rails. It's awesome. One thing to note is that if you are getting duplicates and/or deadlock errors, it may just be because you have <span style="font-style: italic; font-weight: bold;">two</span> autotests running at the same time.<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://farm1.static.flickr.com/207/486819431_34ed69af20.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="http://farm1.static.flickr.com/207/486819431_34ed69af20.jpg" alt="" border="0" /></a>Just too freaky!

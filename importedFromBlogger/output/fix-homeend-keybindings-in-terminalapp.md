@@ -3,7 +3,10 @@
   "slug": "fix-homeend-keybindings-in-terminalapp",
   "title": "Fix home/end keybindings in Terminal.app on OS X",
   "author": "YT Kuah",
-  "date": "2010-09-13T11:07:00.0+12:00"
+  "date": "2010-09-13T11:07:00.0+12:00",
+  "tags": [
+
+  ]
 }
 
 <div class="Amp_Content_Outer_Bookmark"><div class="Amp_Bookmark_Link"><a rel="clipsource" target="_blank" title="http://www.yaroze.org/?p=79" href="http://www.yaroze.org/?p=79">http://www.yaroze.org/?p=79</a></div><div></div></div><div class="Amp_Commentary_Wrap"><div class="Amp_Post_Text"><p>Go all the way to the end of the less buffer! Drove me crazy the way end behaves exactly like page down instead. This tip fixed that for me.</p></div></div><div class="Amp_Link">See this Amp at <a href="http://amplify.com/u/abkv">http://amplify.com/u/abkv</a></div><br/>

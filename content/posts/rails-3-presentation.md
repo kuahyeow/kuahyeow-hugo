@@ -3,7 +3,12 @@
   "slug": "rails-3-presentation",
   "title": "Rails 3 presentation",
   "author": "YT Kuah",
-  "date": "2010-02-07T16:02:00.0+13:00"
+  "date": "2010-02-07T16:02:00.0+13:00",
+  "tags": [
+    "technology",
+    "programming",
+    "rails3"
+  ]
 }
 
 At the January <a href="http://groups.google.co.nz/group/WellRailed">WellRailed</a>&nbsp;(Wellington Rails User group), I gave a presentation on the upcoming <a href="http://guides.rails.info/3_0_release_notes.html">Rails 3.0</a>, with special emphasis on cool new things.<br /><div><div><br />You can view the slides after the jump. There are a huge number of changes, but it should be all good fun :)<br /><br /><br /><a name='more'></a><br /><br /><div id="__ss_3009317" style="text-align: left; width: 425px;"><a href="http://www.slideshare.net/kuahyeow/rails-3-cool-new-things" style="display: block; font: 14px Helvetica,Arial,Sans-serif; margin: 12px 0 3px 0; text-decoration: underline;" title="Rails 3 : Cool New Things">Rails 3 : Cool New Things by Thong Kuah</a><object height="355" style="margin: 0px;" width="425"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=rails3newthings-100127180934-phpapp02&stripped_title=rails-3-cool-new-things" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=rails3newthings-100127180934-phpapp02&stripped_title=rails-3-cool-new-things" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><br /><div style="font-family: tahoma,arial; font-size: 11px; height: 26px; padding-top: 2px;">View more <a href="http://www.slideshare.net/" style="text-decoration: underline;">presentations</a> from <a href="http://www.slideshare.net/kuahyeow" style="text-decoration: underline;">Y. Thong Kuah</a>.</div></div></div></div><br /><br />Note: <a href="http://weblog.rubyonrails.org/2010/2/5/rails-3-0-beta-release">Rails 3.0pre</a> was released after the presentation

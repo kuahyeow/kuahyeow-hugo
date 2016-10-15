@@ -3,7 +3,10 @@
   "slug": "3-month-plan",
   "title": "3 month plan",
   "author": "YT Kuah",
-  "date": "2005-11-15T21:57:00+13:00"
+  "date": "2005-11-15T21:57:00+13:00",
+  "tags": [
+
+  ]
 }
 
 Sometimes, writing things down will make things happen. (As long as you refer back and remember ;)<br /><br />So here goes:<br /><ol>   <li>Get a weighing machine</li>   <li>Play some upper body sport, like basketball :)<br />  </li>   <li>Weigh every week?</li>   <li>Find out how to raise upper body strength</li>   <li>Not to forget, push-ups.</li>   <li>Drink milk. Sleep well.</li>   <li>Finish 2 projects for <a href="http://www.edoodle.co.nz">e-doodle.</a></li> </ol> I wonder how to make this post sticky?

@@ -3,7 +3,12 @@
   "slug": "rails-3-updates",
   "title": "Rails 3 updates",
   "author": "YT Kuah",
-  "date": "2009-08-06T11:16:00.0+12:00"
+  "date": "2009-08-06T11:16:00.0+12:00",
+  "tags": [
+    "ruby",
+    "updates. technology",
+    "rails3"
+  ]
 }
 
 (Cross-posted from <a href="http://blog.projectxtech.com/2009/08/06/rails-3-updates/">http://blog.projectxtech.com/2009/08/06/rails-3-updates/</a>)<br /><br /><a href="http://yehudakatz.com/2009/06/11/rails-edge-architecture/">Rails 3</a> is a rewrite / merger with Merb, and includes Yehuda Katz, Merb lead developer working on it full-time. Here are some posts which were published recently:<br /><br /><a href="http://yehudakatz.com/2008/12/23/rails-and-merb-merge/">http://yehudakatz.com/2008/12/23/rails-and-merb-merge/</a><br /><br /><a href="http://weblog.rubyonrails.org/2009/7/30/community-highlights-yehuda-katz">http://weblog.rubyonrails.org/2009/7/30/community-highlights-yehuda-katz</a><br /><br /><a href="http://yehudakatz.com/2009/03/06/alias_method_chain-in-models/">http://yehudakatz.com/2009/03/06/alias_method_chain-in-models/</a><br /><br /><a href="http://www.engineyard.com/blog/2009/6-steps-to-refactoring-rails-for-mere-mortals/">http://www.engineyard.com/blog/2009/6-steps-to-refactoring-rails-for-mere-mortals/</a><br /><br />There are lots of lessons and techniques in ruby, rails and general programming to be learnt from these posts. Enjoy!
