@@ -1,3 +1,4 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Thong Kuah's blog"
+theme = "hugo-theme-blueberry-detox"
