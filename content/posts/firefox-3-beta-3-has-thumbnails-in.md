@@ -12,4 +12,6 @@
   ]
 }
 
-Finally....<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_ftRNxhptfh4/R8koatPNwqI/AAAAAAAAASA/f4OngzeIAIY/s1600-h/Screenshot-2.png"><img style="cursor: pointer;" src="http://3.bp.blogspot.com/_ftRNxhptfh4/R8koatPNwqI/AAAAAAAAASA/f4OngzeIAIY/s400/Screenshot-2.png" alt="" id="BLOGGER_PHOTO_ID_5172710086296847010" border="0" /></a>
+Finally....<br /><br />
+
+![](/legacyBlogger/400/Screenshot-2.png)

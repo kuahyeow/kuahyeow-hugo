@@ -11,4 +11,6 @@
   ]
 }
 
-Well, first day at work today, starting at MSD. Today was mostly spent getting to know everyone and setting up and installing my development environment.<br /><br />OK, one nice pic of Muffin to end this post:<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_ftRNxhptfh4/Rast4VaodmI/AAAAAAAAAOg/Q9xDAfcnYXE/s1600-h/DSCN6747.JPG"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://3.bp.blogspot.com/_ftRNxhptfh4/Rast4VaodmI/AAAAAAAAAOg/Q9xDAfcnYXE/s320/DSCN6747.JPG" alt="" id="BLOGGER_PHOTO_ID_5020156655479322210" border="0" /></a>:)
+Well, first day at work today, starting at MSD. Today was mostly spent getting to know everyone and setting up and installing my development environment.<br /><br />OK, one nice pic of Muffin to end this post:<br /><br />
+
+![Muffin](/legacyBlogger/400/DSCN6747.JPG)
