@@ -1,5 +1,6 @@
 {
   "title": "Reboot with Hugo",
+  "description": "A short note on moving my blog software",
   "date": "2016-10-24",
   "tags": ["blog", "technology"]
 }
