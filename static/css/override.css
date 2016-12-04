@@ -1,0 +1,15 @@
+html {
+  font-size: 125%;
+}
+
+body {
+  color: #000;
+  *zoom:1;-webkit-font-smoothing: subpixel-antialiased;
+}
+
+#site-header {
+    text-align: center;
+    min-height: 5em;
+    padding-top: 1em;
+    margin-bottom: 4em;
+}
