@@ -7,6 +7,10 @@ body {
   *zoom:1;-webkit-font-smoothing: subpixel-antialiased;
 }
 
+pre code {
+  white-space: pre;
+}
+
 #site-header {
     text-align: center;
     min-height: 5em;
