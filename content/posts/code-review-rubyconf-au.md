@@ -5,7 +5,9 @@
   "tags": ["rubyconfau", "talks"],
   "date": "2016-12-06T22:43:30+13:00"
 }
-It was a great pleasure and honour to give a talk at [RubyConf Australia 2016](http://www.rubyconf.org.au/2016) in Gold Coast.
+
+It was a great pleasure and honour to give a talk at [RubyConf Australia 2016](http://www.rubyconf.org.au/2016) in Gold Coast,
+in the month of February 2016.
 
 <!--more-->
 
