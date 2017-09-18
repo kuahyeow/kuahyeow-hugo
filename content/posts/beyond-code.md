@@ -6,7 +6,7 @@ tags = ["development", "systems"]
 +++
 
 A developer came to me with a great piece of code to automate something. Clearly they have put a good amount
-of thought about the amount of times this thing has been done manually and has done the important of codifying
+of thought about the amount of times this thing has been done manually and has done the important work of codifying
 it enough such that it can be run by a computer.
 
 We both asked the question "What's next ?"
