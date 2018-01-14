@@ -1,6 +1,7 @@
 +++
 date = "2018-01-14T20:18:40+13:00"
 title = "Shell tools"
+tags = ["unix", "tools"]
 
 +++
 
