@@ -4,7 +4,9 @@ title = "Shell tools"
 
 +++
 
-Here's some neat little tricks I have learned over time :
+I have embraced the Unix philosophy of small tools done well. It started when I resolved to use
+_Bash_ to solve weekly challenges at work (another neat idea, more on that another time!). Here's
+some neat little tricks I have learned over time :
 
 `sort -n` : sort numerically
 
