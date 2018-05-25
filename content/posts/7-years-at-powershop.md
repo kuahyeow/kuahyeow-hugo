@@ -1,8 +1,6 @@
 +++
 title = "7 years at Powershop"
 date = "2017-03-31T22:36:42+13:00"
-draft = true
-
 +++
 
 On the 15th of March, 2017, I marked 7 years with Powershop ! 🎉
